@@ -1,8 +1,8 @@
 # Ressources
 
-https://www.debian.org/intro/why_debian.fr.html
-https://www.booleanworld.com/guide-linux-top-command/
-https://apparmor.net
+- https://www.debian.org/intro/why_debian.fr.html
+- https://www.booleanworld.com/guide-linux-top-command/
+- https://apparmor.net
 https://www.linuxfoundation.org/blog/blog/classic-sysadmin-configuring-the-linux-sudoers-file
 https://debian-facile.org/doc:systeme:apt:branches-debian
 https://monovm.com/blog/what-is-ssh-port/#How-does-SSH-work?-%5BA-Complete-Guide
