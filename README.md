@@ -28,7 +28,7 @@
 - https://www.cyberciti.biz/faq/check-how-many-cpus-are-there-in-linux-system/
 - https://www.youtube.com/watch?v=sB_5fqiysi4
 - https://openclassrooms.com/fr/courses/7170491-initiez-vous-a-linux?archived-source=43538
-- https://les-differences.com/difference-ubuntu-debian/#:~:text=et%20DebianAdvertisements-,Quelle%20est%20la%20différence%20entre%20Ubuntu%20et%20Debian%20%3F,à%20jour%20logicielles%20plus%20fréquentes.
+- https://les-differences.com/difference-ubuntu-debian/#:~:text=et%20DebianAdvertisements-,Quelle%20est%20la%20différence%20entre%20Ubuntu%20et%20Debian%20%3F,à%20jour%20logicielles%20plus%20fréquentes
 - https://www.tecmint.com/understand-linux-load-averages-and-monitor-performance/
 - https://www.redhat.com/en/topics/virtualization/what-is-virtualization
 - https://www.linuxtricks.fr/wiki/lvm-sous-linux-volumes-logiques
